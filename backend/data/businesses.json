@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Tech World",
+    "category": "IT Services",
+    "address": "Delhi, India",
+    "contactPhone": "+91-9876543210",
+    "website": "https://techworld.com",
+    "description": "Web and App Development Services",
+  },
+  {
+    "id": 2,
+    "name": "Health Plus",
+    "category": "Healthcare",
+    "address": "Mumbai, India",
+    "contactPhone": "+91-9000000000",
+    "website": "https://healthplus.com",
+    "description": "Private clinic and health consultation",
+  },
+]
