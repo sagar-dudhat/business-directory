@@ -1,0 +1,54 @@
+[
+  {
+    "_id": "6873e67bc77095ff4a6f7111",
+    "name": "Health Plus",
+    "category": "Healthcare",
+    "address": "Mumbai, India",
+    "phone": "+91-9000000000",
+    "website": "https://healthplus.com",
+    "description": "Private clinic and health consultation",
+    "userId": "6873b68f2e26ef1974ad3d41",
+    "createdAt": "2025-07-13T17:01:47.078Z",
+    "updatedAt": "2025-07-13T18:13:35.675Z",
+    "__v": 0
+  },
+  {
+    "_id": "6873e6cfc77095ff4a6f7115",
+    "name": "Tech World",
+    "category": "IT Services",
+    "address": "Bombay, India",
+    "phone": "+91-9876543210",
+    "website": "https://techworld.com",
+    "description": "Web and App Development Services",
+    "userId": "6873b68f2e26ef1974ad3d41",
+    "createdAt": "2025-07-13T17:03:11.145Z",
+    "updatedAt": "2025-07-13T18:12:57.786Z",
+    "__v": 0
+  },
+  {
+    "_id": "6873e6d9c77095ff4a6f7117",
+    "name": "My test 1",
+    "category": "Test Services",
+    "address": "Bombay, India",
+    "phone": "+91-1111111111",
+    "website": "https://bechworld.com",
+    "description": "This is the comment 1 !",
+    "userId": "6873b68f2e26ef1974ad3d41",
+    "createdAt": "2025-07-13T17:03:21.283Z",
+    "updatedAt": "2025-07-13T18:13:09.07Z",
+    "__v": 0
+  },
+  {
+    "_id": "687400d760e650e299c0e70d",
+    "name": "Paresh It Hub ",
+    "category": "IT Services",
+    "address": "Tokyo",
+    "phone": "+1 345 345 345",
+    "website": "https://pareshit.com",
+    "description": "Web information and solution !",
+    "userId": "6874006f60e650e299c0e704",
+    "createdAt": "2025-07-13T18:54:15.524Z",
+    "updatedAt": "2025-07-13T18:54:15.524Z",
+    "__v": 0
+  }
+]

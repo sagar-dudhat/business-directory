@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "6873b68f2e26ef1974ad3d41",
+    "name": "sagar",
+    "email": "utsav@example.com",
+    "password": "$2b$10$iqTBwa3OyW7SZOZucoaS9OJ488K907VfkbgSiq/qfnqtEfgWjB7um",
+    "__v": 0
+  },
+  {
+    "_id": "6874006f60e650e299c0e704",
+    "name": "paresh",
+    "email": "paresh@example.com",
+    "password": "$2b$10$5g0Xr9hKMJgi89cq1tQ7yO/svZ9mFkhTCyN4grZ3U6C8xWQvIfWty",
+    "__v": 0
+  }
+]
